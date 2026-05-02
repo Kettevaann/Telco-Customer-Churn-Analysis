@@ -16,6 +16,7 @@ The analysis initially focused on individual KPIs, but was later restructured to
 **Customer segments were analyzed using:**
 
 Contract type
+
 Tenure groups
 Internet service
 Pricing and payment behavior
