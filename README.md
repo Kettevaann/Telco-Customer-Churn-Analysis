@@ -1,11 +1,11 @@
-Telco Customer Churn Analysis
-Overview
+**Telco Customer Churn Analysis**
+**Overview**
 
 This project analyzes customer churn patterns in a telecommunications dataset to identify key drivers of customer attrition. The goal is to understand high-risk customer segments and provide actionable product recommendations to improve retention.
 
 The analysis was performed in Microsoft Excel using pivot tables, segmentation, and churn rate calculations.
 
-Dataset
+**Dataset**
 Source: Kaggle Telco Customer Churn dataset
 ~7,000 customers
 Includes demographics, contract details, services, billing, and churn status
@@ -13,7 +13,7 @@ Approach
 
 The analysis initially focused on individual KPIs, but was later restructured to evaluate churn more holistically across key variables.
 
-Customer segments were analyzed using:
+**Customer segments were analyzed using:**
 
 Contract type
 Tenure groups
@@ -36,7 +36,7 @@ Customers without partners/dependents churn slightly more
 Gender has minimal impact
 Business Insights
 
-Churn is primarily driven by:
+**Churn is primarily driven by:**
 
 Low commitment (flexible contracts)
 Early lifecycle experience
